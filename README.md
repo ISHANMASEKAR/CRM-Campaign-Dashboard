@@ -12,7 +12,7 @@ Campaign ROI
 Revenue trends
 Regional performance
 Sales representative contribution
-🛠 Tools & Technologies
+Tools & Technologies
 Microsoft Excel
 Pivot Tables
 Pivot Charts
